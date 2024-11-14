@@ -1,0 +1,26 @@
+cli(command line interface) - is a program that enables users to converse with the computer using text commands.
+components of cli - commands, flags/options
+commands:
+create new folder/directory - mkdir <folder_name>
+create new file - touch <file_name.txt>
+change directory - cd <directory_name>
+go one step back to previous directory - cd ..
+list out items in a folder - ls
+delete file - rm <file_name>
+
+git - collaboration, platform, developers, live-code, systematic, 
+github - project, wide-range, developers, collaboration, web-app
+
+install git: sudo apt install git
+confirm version: git --version
+
+configure git:
+-git config --global user.name "<github_username>"
+-git config --global user.email "<github_email>"
+
+github:
+repositories - folders on github platform used to store your work/project.
+
+github commands(configure repository):
+-git init
+-git add .
