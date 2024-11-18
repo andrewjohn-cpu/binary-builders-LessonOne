@@ -24,3 +24,6 @@ repositories - folders on github platform used to store your work/project.
 github commands(configure repository):
 -git init
 -git add .
+-git commit -m "<descriptive_message>"
+-git remote add origin "<https_url>"
+-git push -u origin "<branch_name>"
